@@ -6,3 +6,5 @@ Image: Presentation of the prototype after a demo fly
 <p align="center">
   <img src="hackathon.jpeg" alt="Hackathon presentation" width="70%">
 </p>
+
+*Inside story: My collarbone was still broken from a cycling accident but i still went to the hackathon*
