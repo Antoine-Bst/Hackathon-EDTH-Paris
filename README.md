@@ -8,4 +8,4 @@ Image: Presentation of the prototype after a demo fly
   <img src="hackathon.jpeg" alt="Hackathon presentation" width="70%">
 </p>
 
-*Inside story: My collarbone was still broken from a cycling accident but i still went to the hackathon*
+*My collarbone was still broken from a cycling accident, but I went to the hackathon anyway : turns out if you’re sleep-deprived enough, you unlock the ‘pain-free demo mode.’*
